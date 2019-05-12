@@ -1,9 +1,3 @@
----
-layout: null
-sitemap:
-exclude: 'yes'
----
-
 /* TEAM */
 Developer & Designer: Josh Gerdes
 Twitter: @joshgerdes
@@ -14,7 +8,7 @@ Location: Minneapolis, MN, USA
 Name: Dale Anthony
 
 /* SITE */
-Last update: {{ site.time | date: "%Y/%m/%d" }}
+Last update: 2019/05/12
 Standards: HTML5, CSS3
 Components: Jekyll
 Software: Sublime Text, Photoshop
