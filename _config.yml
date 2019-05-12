@@ -2,7 +2,7 @@
 title: AlmondWhite
 description: 'A blog on all things interesting'
 url: 'https://almondwhite.today/'
-baseurl: 'https://almondwhite.today/'
+baseurl: '/AlmondWhite'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
