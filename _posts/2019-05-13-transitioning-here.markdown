@@ -5,7 +5,7 @@ categories: [jekyll]
 tags: [ blog news]
 ---
 
-No not in that way... I mean transitioning from old habits to new ones. I’ve had quite a number of blogs (if you can call them that) in the past, each exploring different topics. I am in no way going to name any of them as even though they’re all long gone now, the WayBack Machine could always she a little light. Either way, they were quite niche. By niche I mean shit.
+No not in that way... I mean transitioning from old habits to new ones. I’ve had quite a number of blogs (if you can call them that) in the past, each exploring different topics. I am in no way going to name any of them as even though they’re all long gone now, the WayBack Machine could always shed a little light. Either way, they were quite niche. By niche I mean shit.
 
 I tried focusing on tech, oddities, the arts, culture, etc, with varying degrees of success. However, the one thing no one tells you when you start a blog, consistency is key. 
 
