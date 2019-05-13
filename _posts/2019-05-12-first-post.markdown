@@ -16,4 +16,4 @@ effort. Considering the time it takes to write a post or article, update a page 
 I hope to make this project an interesting one and see how it goes from there. I've also set up a [new twitter account][twitter] to update about posts and articles while I get the RSS and subsription features up for those who are interested. More to come, thanks for stopping by!
 
 
-[twitter]:http://twitter.com/AlmondWhite
+[twitter]:http://twitter.com/AlmondWhite1
