@@ -13,7 +13,7 @@ I’ve written many Perl, Bash and Python scripts in the past and aside from [Tk
 
 Once I heard about [Electron][electron-link] and what kinds of apps had been made with it, I was fully onboard. The only aspect I’m pretty curious about is to what end I can actually port over some of the functions I’ve been able to create in the past. Some appear to be quite simple, for instance when I want to grab the OS name my app is running on in C#, I would write the following:
 
-``` C#
+``` c#
 using System.Management;
 var name = (from x in new ManagementObjectSearcher("SELECT Caption FROM Win32_OperatingSystem").Get().Cast<ManagementObject>()
                       select x.GetPropertyValue("Caption")).FirstOrDefault();
