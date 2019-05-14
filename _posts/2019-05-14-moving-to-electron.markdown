@@ -27,7 +27,11 @@ var operativeSystemModule = require("os");
 ```
 
 However, can I actually read and write to a Windows registry for example? Or allow an OSX user to update brew via a button on my app? These and a few more OS specific things have me still curious about the whole experience. I understand that Electron essentially displays GUIs via a Chromium window in each OS and is in essence more suitable for web apps, but I would still want to explore these features. 
-The first project I have to build coming up is a system information auditing tool, so I will need to grab some OS related information on a few different platforms. I think it will be a fitting first look in to how I can get with the rest of the people living in the present and veer away from .Net Framework for the time being. I’ll write an update on the whole experience soon.
+
+
+The first project I have to build coming up is a system information auditing tool, so I will need to grab some OS related information on a few different platforms. I think it will be a fitting first look in to how I can get with the rest of the people living in the present and veer away from .Net Framework for the time being. 
+
+I’ll write an update on the whole experience soon.
 
 
 
