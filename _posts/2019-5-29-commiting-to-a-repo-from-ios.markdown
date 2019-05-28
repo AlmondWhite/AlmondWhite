@@ -1,4 +1,4 @@
-title: "Commiting to a repo from iOS" date: 2019-05-28 categories: [jekyll] tags: [ blog news]
+title: "Commiting to a repo from iOS" date: 2019-05-29 categories: [jekyll] tags: [ blog news]
 
 Hello once again. Yes it has been a while since I’ve actually posted something, but I was pretty busy.
 
