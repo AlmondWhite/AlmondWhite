@@ -2,7 +2,7 @@
 title:  "An Experiment"
 date:   2019-05-30
 categories: [jekyll]
-tags: [ blog news, rambling]
+tags: [ blog news, General Bullshit]
 ---
 
 Here's a test I've been wanting to try for a little while now...
