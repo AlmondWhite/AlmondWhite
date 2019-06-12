@@ -1,5 +1,5 @@
 ---
-title:  "The Experiment"
+title:  "Longo Time-o"
 date:   2019-06-13
 categories: [jekyll]
 tags: [ General Bullshit]
