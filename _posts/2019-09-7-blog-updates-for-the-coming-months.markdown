@@ -20,7 +20,7 @@ I’m not one to call upon the world’s tiniest violin to be played for me here
 
 Narcissistic ranting aside, I feel like showing some much needed TLC to this poor neglected basement slave of a blog and actually committing a few posts here and there as well as realizing some much needed updates. 
 
-![spookiness](../assets/halloween.jpg)
+![](../assets/halloween.jpg)
 
 So what can be expected? Well as mentioned I do have some good ideas for posts in mind. One of which being to commemorate Halloween by posting one new original short horror story a day during the month of October.  It’s a simple enough concept and it seems like a great way to practice consistent posting. 
 
