@@ -24,7 +24,7 @@ Narcissistic ranting aside, I feel like showing some much needed TLC to this poo
 
 So what can be expected? Well as mentioned I do have some good ideas for posts in mind. One of which being to commemorate Halloween by posting one new original short horror story a day during the month of October.  It’s a simple enough concept and it seems like a great way to practice consistent posting. 
 
-Another idea I have in the pipeline, especially for this month and those in general, is to explore more topics of interest other than just coding and bitching. Potentially even creating some investigative articles or reviews on things would serve as entertaining to not only myself but those who accidentally have the misfortune of ending up here. 
+Another idea I have in the pipeline, especially for this month and those in general, is to explore more topics of interest other than just coding and bitching. Potentially even creating some investigative articles or reviews on things, would serve as entertaining to not only myself but those who accidentally have the misfortune of ending up here. 
 
 I have some ideas for playing around with different themes for the aesthetics of the site from month to month as well, as a way of keeping things “fresh”, and hopefully racking up some form of feedback by announcing new posts on my Twitter for the 2 people who actually follow me. 
 
