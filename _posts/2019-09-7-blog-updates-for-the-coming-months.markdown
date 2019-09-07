@@ -5,7 +5,7 @@ categories: [jekyll]
 tags: [ blog news, Halloween]
 ---
 
-Halloween is fast approaching, and as stated in my previous post I’m already fucking excited.
+Halloween is fast approaching, and as stated in my previous post; I’m already fucking excited.
 
 
 I’m never away from my desk or a notepad, so I can’t use the old excuse of spending more time indoors due to the autumn rainfall as a reason I might actually begin consistently posting here again. The truth is I’m probably as forgetful as I am lazy and busy. However, I do have some plans that may aid me in actually making the most of my little corner of the internet once again. 
@@ -20,7 +20,7 @@ I’m not one to call upon the world’s tiniest violin to be played for me here
 
 Narcissistic ranting aside, I feel like showing some much needed TLC to this poor neglected basement slave of a blog and actually committing a few posts here and there as well as realizing some much needed updates. 
 
-![](../assets/halloween.jpg)
+![](/assets/halloween.jpg)
 
 So what can be expected? Well as mentioned I do have some good ideas for posts in mind. One of which being to commemorate Halloween by posting one new original short horror story a day during the month of October.  It’s a simple enough concept and it seems like a great way to practice consistent posting. 
 
