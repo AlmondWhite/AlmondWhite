@@ -2,7 +2,7 @@
 title:  "The New Human Condition?"
 date:   2019-09-8
 categories: [jekyll]
-tags: [ Philosophy?, General Bullshit]
+tags: [ Potential Philosophy, General Bullshit]
 ---
 
 Lately I’ve been noticing something that I’m more than certain previous generations have been through. In fact, I’m pretty sure most people go through at some point in their lives. 
