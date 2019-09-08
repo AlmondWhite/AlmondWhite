@@ -19,6 +19,8 @@ I’ve never been a social media nut. I don’t share photos of my food, apply c
 So anyways, having this little disconnect or lack of understanding the whole motive for engaging passionately on these sites, has kind of allowed me to stand back and take a look at the differences between each:
 
 
+
+
 _**Twitter**_
 
 ![](/assets/twitter.jpg)
@@ -30,6 +32,7 @@ It’s so much more difficult to break out of a patronizing cocoon of offers and
 All this aside, it must be said that it is a great tool for focusing in on people and companies that relate to your passion or work or even your social circle. I do receive up-to-the-minute news on cyber threats an tech news due to the accounts I follow. These are things that previously would have taken me quite some time to sift through news sites and articles to find out on my own. Twitter also has a great advantage in playing home to some of the more prominent celebrities and figures in out society and allowing us to directly communicate with them. The *verified* feature also plays a great role in correctly identifying the source of information for a given account. 
 
 However, by the same token, Twitter accounts are often maintained by individuals, each with their own likes and interests which they tweet about. This can also prove constructing a feed based around a topic or theme of your liking, difficult. This is simply due to the fact that folks will post about anything at any time. 
+
 
 
 
