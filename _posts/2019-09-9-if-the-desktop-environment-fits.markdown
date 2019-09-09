@@ -24,7 +24,8 @@ Anyways, my point. I do take long to get to the fucking point sometimes. My poin
 
 
 _**The Veterans**_
-***
+
+---
 
 These are those guys you hear about working in the IT sector back when you could build solitaire knockoffs on your Commodore 64. They were around before *systemd* was even a dirty little thought in some dev’s mind, and they’ll be here long after. 
 
@@ -32,6 +33,7 @@ They tend to opt for productivity and efficiency over style and comfort. If CPU,
 
 
 _**The WM snobs**_
+
 ***
 
 Most of us have a love-hate relationship with these guys, in a way. They can be real annoying, but damn it, they do make headway in the field of customization. 
@@ -44,7 +46,8 @@ They’ll tell you that they *“use i3 and Awesome for productivity”* and how
 
 
 _**The Casual Users**_
-***
+
+___
 
 They sometimes get a rough deal for not knowing every detail on how Linux based OS’s operate, or for picking a DE because they though it looked cool. 
 
@@ -54,7 +57,8 @@ I don’t feel these folks are subject to the whole 30%, 70% percentile game.
 
 
 _**The Distro-Hoppers**_
-***
+
+-------------------------------
 
 These guys are all over the place. Some try new or challenging distros for the fun, others do it for the expressed support by the manufacturers for one desktop environment over another. They’re hard to judge correctly, but I feel a little *team spirit* comes in to play in their decisions. 
 
@@ -62,7 +66,8 @@ True Linux hobbyists.
 
 
 _**Then there’s myself**_
-***
+
+________________________________
 
 I’ve been through a few different options. I began in Gnome, like most. Fucking hated it. Changed to Cinnamon for a while when I was a casual user. As my coding skills progressed, I started building my own distros. I found LXDE to be a pretty simple DE for me to wrap my head around in terms of modification prior to compiling. I liked the results so much that I stuck with that for a while. 
 
