@@ -43,7 +43,7 @@ They’ll tell you that they *“use i3 and Awesome for productivity”* and how
 
 
 _**The Casual Users**_
----
+___
 They sometimes get a rough deal for not knowing every detail on how Linux based OS’s operate, or for picking a DE because they though it looked cool. 
 
 However, personally I find these to be the most interesting camp. Obviously due to my reasons mentioned prior, but mostly because they serve as great indicators of user-friendly or easily manageable DE’s. Kde as most know, tends to be the first choice for those trying to get out of the Windows game, or Gnome serving as a springboard of sorts for the daring OSX user. 
@@ -52,14 +52,14 @@ I don’t feel these folks are subject to the whole 30%, 70% percentile game.
 
 
 _**The Distro-Hoppers**_
----
+___
 These guys are all over the place. Some try new or challenging distros for the fun, others do it for the expressed support by the manufacturers for one desktop environment over another. They’re hard to judge correctly, but I feel a little *team spirit* comes in to play in their decisions. 
 
 True Linux hobbyists.
 
 
 _**Then there’s myself**_
----
+___
 I’ve been through a few different options. I began in Gnome, like most. Fucking hated it. Changed to Cinnamon for a while when I was a casual user. As my coding skills progressed, I started building my own distros. I found LXDE to be a pretty simple DE for me to wrap my head around in terms of modification prior to compiling. I liked the results so much that I stuck with that for a while. 
 
 Times and needs changed, blah, blah, blah, and I ended up using KDE Neon religiously for a few years. I had used Kubuntu prior to even getting to that phase, but it was so broken it actually turned me off the whole KDE experience until I finally took the plunge once more. Mate then became my weapon of choice until recently.
