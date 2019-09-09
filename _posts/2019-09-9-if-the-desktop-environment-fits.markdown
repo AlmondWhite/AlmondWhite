@@ -5,7 +5,7 @@ categories: [jekyll]
 tags: [ Linux, Reddit, LXDE, Desktop Environments]
 ---
 
-Among the growing popularity of *tech* themed shows (hacking, cyber security, etc…) you can easily plot a chart of interest in technologies that have appeared in a series, to similar points where the a show in question’s audience has grown. 
+Among the growing popularity of *tech* themed shows (hacking, cyber security, etc…) you can easily plot a chart of interest in technologies that have appeared in a series to similar points where the show in question’s audience has grown. 
 
 
 I’m not referring to documentaries, I’m specifically speaking in reference to dramas or series. Shows like Mr. Robot for instance. I love that show. Many people do. It was only when I ventured to see what it’s dedicated subreddit looked like that I saw a huge number of fresh faces trying to get in to Linux based OS’s. 
