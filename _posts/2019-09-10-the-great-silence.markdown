@@ -24,7 +24,7 @@ We all know there has been some conflict between the religious and scientific co
 
 2. We are the only intelligent planet in the universe.
 
-It was in reference to the second point that Seth, a man of science, said; [*”If we are the only intelligent species in the Galaxy, I will take that to be a miracle”*]. Now I’m paraphrasing of course, as I’m quoting this from memory, but he literally said *miracle*. 
+It was in reference to the second point that Seth, a man of science, responded to with; [*”If we are the only intelligent species in the Galaxy, I will take that to be a miracle”*]. Now I’m paraphrasing of course, as I’m quoting this from memory, but he literally said *miracle*. 
 
 
 This made me wonder, if our search for intelligent life out in the expanse of space actually does confirm that we are the only intelligent species to be found out there, wouldn’t that validate our religions of the world? 
