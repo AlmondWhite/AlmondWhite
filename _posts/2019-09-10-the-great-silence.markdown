@@ -7,8 +7,13 @@ tags: [ Potential Philosophy]
 
 I have an hour to kill before a phone call, so this is going to be a quick little post.
 
-I was flicking through an article and I had on a podcast, playing in the background. I usually do this, mostly due to a build up of anxiety I get when I’m in total silence. I can take absolute darkness, no problem, but silence fucks with me in a massive way. So, I was listening to some crackpot wacko on Coast to Coast AM (yes, I know), and this guy was talking about giants buried in the mountains of America, or something. 
-I used to not mind listening through an hour of so of George Knapp’s incredible patience being drenched in the ramblings of some lonely old woman, talking about our *spirit energies* and the *inter-dimensional portals dotted across the Earth*. This was, of course, until every episode seemed to have someone blabbing on about the same crap. It really makes me long for someone to present a more tangible and realistic theory for some of the strange things that get reported around the world. Anyway, the YouTube algorithm must have picked up on some of fairytale space crap this guy had spoken about, because the next video on autoplay was a documentary about SETI. 
+
+I was flicking through an article and I had on a podcast, playing in the background. I usually do this, mostly due to a build up of anxiety I get when I’m in total silence. I can take absolute darkness, no problem, but silence fucks with me in a massive way. So, I was listening to some crackpot wacko on Coast to Coast AM (yes, I know), and this guy was talking about giants buried in the mountains of America, or something.
+
+
+I used to not mind listening through an hour of so of George Knapp’s incredible patience being drenched in the ramblings of some lonely old woman, talking about our *spirit energies* and the *inter-dimensional portals dotted across the Earth*. This was, of course, until every episode seemed to have someone blabbing on about the same crap. It really makes me long for someone to present a more tangible and realistic theory for some of the strange things that get reported around the world. 
+
+Anyway, the YouTube algorithm must have picked up on some of fairytale space crap this guy had spoken about, because the next video on autoplay was a documentary about SETI. 
 
 I didn’t even catch the introduction to the documentary as I was still deep in to my article at the time, but as the night grew older, I unplugged the laptop and continued to watch it in bed. I think Seth Shostak (dude who runs the SETI) is a pretty interesting guy. He’s really grounded in any discussion he takes on the subject as I think he realizes aliens are a pretty alien topic for most. Ultimately, he said something in the documentary I never even thought about before. 
 
