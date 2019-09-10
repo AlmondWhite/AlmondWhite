@@ -5,7 +5,6 @@ categories: [jekyll]
 tags: [ Apple, General Bullshit]
 ---
 
-![](/assets/crapple.png)
 
 At the time of writing this I’m watching the *Apple Special Event 2019* and, to be honest, it’s pretty underwhelming. 
 
