@@ -19,7 +19,7 @@ It’s pretty impressive how extensive, the list of FOSS apps you can find on th
 
 So, I explored. 
 
-I tried out a few video editing suites. *Lightworks was* my go-to when it first came out, as I could also have a copy installed on my Windows drive had I needed to remain in the despicable OS for some other reason. So I scanned for alternatives. *Kdenlive* was also a familiar face, as I was a KDE user for many years, but I really don’t like it. Too overly complex for the average user. 
+I tried out a few video editing suites. *Lightworks* was my go-to when it first came out, as I could also have a copy installed on my Windows drive had I needed to remain in the despicable OS for some other reason. So I scanned for alternatives. *Kdenlive* was also a familiar face, as I was a KDE user for many years, but I really don’t like it. Too overly complex for the average user. 
 
 Anyway, after having rooted around for a few more apps, I had seen most of what I wanted to. Ultimately I went back to my coding. It was only later that a friend of mine had sent me a message, telling me to try out a new game he was playing. He’s a devout Windows user, so when he told me, I initially assumed it was Windows based. Plus, it’s a fucking video game. As the adage goes *“Windows is for gaming, Linux is for everything else”*. 
 
