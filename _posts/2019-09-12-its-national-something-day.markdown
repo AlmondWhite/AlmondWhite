@@ -1,5 +1,5 @@
 ---
-title:  "Its National [enter crap here] Day!"
+title:  "It's National [enter crap here] Day!"
 date:   2019-09-12
 categories: [jekyll]
 tags: [ General Bullshit, Twitter]
