@@ -6,7 +6,11 @@ tags: [ Spooktober, Short Story]
 ---
 
 
-Eleanor couldn’t sleep. The eerie sounds of midnight in the wilderness were ever-present. So present in fact, they were enough to keep her up, overanalyzing every twig snapping or branch creaking. Without the daily humdrum of cars driving by or cats rooting through the garbage that she would usually hear outside of her bedroom window, out here each sound had an endless pool of potential meanings to it. A rustle in the distance could be a black bear or a mouse, a screech above could be a cougar perched in a tree, or just simply a bird. This is what played on her mind. The worst part about hearing any noise in the wilderness, especially at night, was not knowing who or what had made it. 
+Eleanor couldn’t sleep. The eerie sounds of midnight in the wilderness were ever-present. So present in fact, they were enough to keep her up, overanalyzing every twig snapping or branch creaking. Without the daily humdrum of cars driving by or cats rooting through the garbage that she would usually hear outside of her bedroom window, out here each sound had an endless pool of potential meanings to it. 
+
+
+
+A rustle in the distance could be a black bear or a mouse, a screech above could be a cougar perched in a tree, or just simply a bird. This is what played on her mind. The worst part about hearing any noise in the wilderness, especially at night, was not knowing who or what had made it. 
 
 When setting up camp, she had strategically aimed her tent towards the lake. She did this not only to have quick access to water in the middle of the night, but also to attempt to drown out her father’s snoring later on. The feint sounds of the water looping itself around the rocks on the muddy bank made drifting off to sleep a little easier for her. Not at this moment, however. She looked at her digital watch. The greenish hue lit up the contours of her tent as she tapped the small button on the side. *”3:00 am”*, she muttered as she cupped her face in her hands. 
 
