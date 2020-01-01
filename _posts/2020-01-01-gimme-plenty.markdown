@@ -2,7 +2,7 @@
 title:  "2020, Gimme Plenty"
 date:   2019-01-01
 categories: [jekyll]
-tags: [ blog news, General Bullshit]
+tags: [ General Bullshit]
 ---
 
 New year, new decade. How you gonna tackle it?
