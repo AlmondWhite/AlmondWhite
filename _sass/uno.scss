@@ -994,8 +994,8 @@ em {
 blockquote {
 	margin: 1em 0;
 	padding: 2em 0;
-	background: #222;
-	border: 1px solid #222;
+	background: #8F8F8F;
+	border: 1px solid #8F8F8F;
 	border-radius: 3px;
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
@@ -1112,7 +1112,7 @@ pre {
 .footer {
 	display: block;
 	padding: 2em 0 0 0;
-	border-top: 2px solid #222;
+	border-top: 2px solid #8F8F8F;
 	font-size: .7em;
 	color: #b3b3b3; }
 
@@ -1137,13 +1137,13 @@ hr {
 .section-title__divider {
 	width: 30%;
 	margin: 2.2em 0 2.1em 0;
-	border-top: 1px solid #222; }
+	border-top: 1px solid #8F8F8F; }
 
 .hidden {
 	display: none !important; }
 
 .post-comments {
-	border-top: 1px solid #222;
+	border-top: 1px solid #8F8F8F;
 	padding: 60px 0; }
 
 .post-meta {
@@ -1178,7 +1178,7 @@ hr {
 	display: block;
 	width: 30%;
 	margin: 2em 0;
-	border-top: 1px solid #222; }
+	border-top: 1px solid #8F8F8F; }
 
 .error-code {
 	font-size: 6em; }
@@ -1464,7 +1464,7 @@ i {
 .post-list__divider {
 	width: 30%;
 	margin: 2.2em 0 2.1em 0;
-	border-top: 1px solid #222; }
+	border-top: 1px solid #8F8F8F; }
 
 *:focus {
 	outline: none; }
@@ -1485,7 +1485,7 @@ input[type="tel"] {
 	width: 240px;
 	padding: 1em 1em;
 	background: #FFF;
-	border: 1px solid #222;
+	border: 1px solid #8F8F8F;
 	border-radius: 3px;
 	font-size: .9em;
 	color: #333; }
