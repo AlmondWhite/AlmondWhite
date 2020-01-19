@@ -7,7 +7,7 @@ tags: [ General Bullshit]
 
 New year, new decade. How you gonna tackle it?
 
-The time has come to start picking resolutions, aim you hopes as high as they can be, and with a little perseverance, try to make it all happen. What’s different this time around? Well, we just polished of a decade. More specifically, we ended a well-rounded 10 years, essentially (we end a decade every year, says some asshole). Building off of this, I’m sure most people aren’t just making the usual resolutions for this year alone but are actually setting some 10-year long goals as well. 
+The time has come to start picking resolutions, aim your hopes as high as they can be, and with a little perseverance, try to make it all happen. What’s different this time around? Well, we just polished of a decade. More specifically, we ended a well-rounded 10 years, essentially (we end a decade every year, says some asshole). Building off of this, I’m sure most people aren’t just making the usual resolutions for this year alone but are actually setting some 10-year long goals as well. 
 
  All this is well and good, but when was the last time you remember actually fulfilling a new years resolution past the 1 month mark? Or the 2 or 3 months marks for that matter? Spurting out ambitious promises while holding a glass of champagne and dawning a dress covered in cocktail sausage stains, isn’t a memory that would serve as the key point of motivation for your endeavor over the coming 365 days, I would imagine. 
 
