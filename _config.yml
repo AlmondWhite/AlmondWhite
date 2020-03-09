@@ -1,0 +1,40 @@
+# Site settings
+title: AlmondWhite
+description: 'A blog on things that come to mind.'
+url: 'https://almondwhite.today'
+google_analytics: 'UA-140161087-1'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'AlmondWhite'
+  email: almondwhite@protonmail.com
+  twitter_username: AImondWhite
+  github_username:  AlmondWhite
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'CNAME']
