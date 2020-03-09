@@ -1275,7 +1275,7 @@ green     #859900  operators, other keywords
   background: #000000;
   position: fixed;
   width: 100vw;
-  border-bottom: 2px solid #ffffff;
+  border-bottom: 2px solid #474747;
   z-index: 1;
 }
 
