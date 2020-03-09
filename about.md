@@ -13,7 +13,7 @@ I'm not super easy to find online, but if you see me, feel free to say hi and te
 
 And now, I leave you with some words that have been my sole crutch to lean on in times of despair. 
 
->How wude. <cite>Jar Jar Binks</cite>
+>How wude. <cite> - Jar Jar Binks</cite>
 
 Farewell my friends... 
 
