@@ -1,6 +1,6 @@
 ---
 title:  "I hath gone, to Mastodon"
-date:   2020-03-09
+date:   2020-03-10
 banner_image: mastodon.jpg
 tags: [ Social Media, Tech, Mastodon, FOSS]
 ---
