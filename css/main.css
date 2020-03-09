@@ -417,7 +417,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #3d3d3d;
+  color: #ffffff;
   font-weight: bold;
   line-height: 1.16667;
   margin: 0 0 24px;
@@ -504,8 +504,8 @@ pre:before {
 }
 
 blockquote {
-  border-left: 3px solid #55c5f0;
-  color: #3d3d3d;
+  border-left: 3px solid #ffffff;
+  color: #cca946;
   font-size: 20px;
   font-style: italic;
   line-height: 1.8;
@@ -1146,7 +1146,7 @@ green     #859900  operators, other keywords
 }
 
 .fill-horizontal {
-  background-color: #22b3eb;
+  background-color: #8a8a8a;
   -webkit-box-shadow: inset -50px 0 #474747;
   box-shadow: inset -50px 0 #474747;
   position: relative;
@@ -1354,7 +1354,7 @@ green     #859900  operators, other keywords
 }
 
 .site-title a:hover {
-  color: #55c5f0;
+  color: #333333;
 }
 
 .site-title .logo-text {
@@ -1536,7 +1536,7 @@ green     #859900  operators, other keywords
 }
 
 .tag-links {
-  border-top: 2px solid #ededed;
+  border-top: 2px solid #696969;
   padding-top: 30px;
 }
 
@@ -1547,8 +1547,8 @@ green     #859900  operators, other keywords
 
 .share-post a,
 .tag-links a {
-  background-color: #ededed;
-  color: #818181;
+  background-color: #000000;
+  color: #c6c6c6;
   display: inline-block;
   margin-left: 5px;
   text-decoration: none;
@@ -1558,13 +1558,13 @@ green     #859900  operators, other keywords
 
 .share-post a:hover,
 .tag-links a:hover {
-  background-color: #22b3eb;
+  background-color: #222222;
   color: #ffffff;
 }
 
 /* Author box */
 .author-box {
-  background-color: #ffffff;
+  background-color: #333333;
   margin-bottom: 40px;
   padding-bottom: 40px;
   padding-top: 40px;
@@ -1631,8 +1631,8 @@ green     #859900  operators, other keywords
 
 .archive-tags-list a,
 a.archive-top-link {
-  background-color: #ededed;
-  color: #818181;
+  background-color: #000000;
+  color: #ffffff;
   display: inline-block;
   letter-spacing: 1px;
   line-height: 1.5;
@@ -1737,8 +1737,8 @@ a.archive-top-link:hover {
 
 .post-navigation .nav-next,
 .post-navigation .nav-previous {
-  background-color: #474747;
-  border-left: 3px solid #22b3eb;
+  background-color: #333333;
+  border-left: 3px solid #ffffff;
   margin-bottom: 20px;
   padding-bottom: 50px;
   padding-top: 30px;
