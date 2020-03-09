@@ -1273,6 +1273,9 @@ green     #859900  operators, other keywords
  */
 .site-navigation {
   background: #000000;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
 }
 
 .site-navigation .inner {
