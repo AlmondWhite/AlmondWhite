@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About this blog
+title: About AlmondWhite's Blog
 description: An optional about page for BlogInn Jekyll theme
 banner_image: aboutPage.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+The **AlmondWhite** blog is just a simple place I set up to collect my thoughts on various different facets of technology, media and philosophy? Maybe...
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+I really just post about things from my own point of view so that I can look back on my work and have a visual representation of why I'm an idiot. I don't agree with the censoring overlords of social media sites and I'm quite the antisocial fucker myself, so I splurt stuff out here, far from the clutches of pointless back-and-forths.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I'm not super easy to find online, but if you see me, feel free to say hi and tell me why you don't want to talk to me. 
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+And now, I leave you with some words that have been my sole crutch to lean on in times of despair. 
+
+>How wude. <cite>Jar Jar Binks</cite>
+
+Farewell my friends... 
+
+
+
 
 *Thank You for reading!*
