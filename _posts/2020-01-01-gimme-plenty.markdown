@@ -1,7 +1,7 @@
 ---
 title:  "2020, Gimme Plenty"
 date:   2020-01-01
-banner_image: compu.jpeg
+banner_image: sparkle.jpg
 tags: [ General Bullshit]
 ---
 
