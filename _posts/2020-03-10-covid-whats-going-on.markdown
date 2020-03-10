@@ -17,13 +17,13 @@ Although my blog is primarily focused on tech, humor and opinion driven pieces, 
 
 
 
-### COVID-19 or Corona Virus?
+## COVID-19 or Corona Virus?
 
 One of the biggest slightly misleading hiccoughs I've seen online, is referring to this virus as the _"corona virus"_. This can potentially pose issue when speaking with health officials or providing information to a friend for them to look up, as most lower respiratory infections take the form of a corona virus. Just as can be observed in the header image above, these viruses don the moniker of _"corona"_ viruses due to the crown-shaped spires they display. Due to this, *COVID-19* is the official name given to this virus and is what you should use when researching relative information about it, as searching for _"corona virus"_ may bring up information about unrelated viruses.
 
 
 
-### What are the symptoms of COVID-19?
+## What are the symptoms of COVID-19?
 
  According to the Mayo Clinic's <a href="https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963">article</a> on COVID-19, the first symptoms of the virus can appear anywhere from 2 to 14 days after exposure to it. The symptoms include:
 
@@ -36,7 +36,7 @@ It is suggested you contact a doctor right away and inform them about you sympto
 
 
 
-### Spreading & Face Masks
+## Spreading & Face Masks
 
 {% include image_caption.html imageurl="/images/posts/mask.jpg" title="Face Mask" caption="a person wearing a face mask" %}
 
@@ -50,7 +50,7 @@ The practice of employing face masks is also quite specific. They are to be swap
 
 
 
-### Prevention Methods
+## Prevention Methods
 
 _So what are some of the recommended methods of prevention from COVID-19?_ According to the  <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html">CDC.gov website</a>, some of the new practices you can start undertaking are as follows:
 
@@ -68,7 +68,7 @@ All of these can aid you in reducing your risk of infection and the risk of infe
 
 
 
-### Status Updates
+## Status Updates
 
 {% include image_caption.html imageurl="/images/posts/arcgis.PNG" title="COVID Map" caption="the live reports map" %}
 
@@ -76,13 +76,13 @@ Personally, I find one the best sources for real-time statistics on the spread o
 
 
 
-### Should I be Concerned?
+## Should I be Concerned?
 
 In short: *yes*. I don't mean this in a _panicky_ sort of way, but in a more _self-conscious_ sort of way. You should be concerned with informing those you know about how to reduce the spread, protect themselves and raise awareness about the COVID-19 virus. The most valuable asset you can have at your disposal is information. Go perform your own research, ensure to avoid channels that only seek to sew panic and raise their own viewer ratings. Find reliable and informative sources that are verifiably speaking from a place of authority, such as doctors or scientists, for instance.
 
 
 
-### That's all for now...
+## That's all for now...
 
 For the time being, this has been my coverage of COVID-19. I may return to this horrible topic at some point, but I just wanted to do my small part in helping to contribute towards a better understanding of this issue by sharing my own. 
 
