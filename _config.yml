@@ -37,7 +37,7 @@ disqus:
 
 # Author information - author info at the bottom of the post
 author_name: "AlmondWhite"
-author_bio: "I code well in some languages and not so well in others. Although I may write about real things, this site just serves as a place for me to dump my memories and opinions. Take it as you will."
+author_bio: "I'm a coder, artist, writer and all round lazy person. I love Node.js, C#, Python, Sass, Electron and PHP. One day I will contribute to this world in a meningful way or something..."
 author_url:  "https://almondwhite.today"
 author_location: "The Forest Somewhere"
 author_image: /images/authorimage.png
@@ -59,7 +59,7 @@ dribbble_uername: ""
 medium_username: ""
 instagram_username: ""
 pinterest_username: ""
-linkedin_username: ""
+linkedin_username: "@almondwhite"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
