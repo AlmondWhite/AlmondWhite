@@ -1,5 +1,5 @@
 ---
-title:  "New Setup, Who Dis?"
+title:  "New setup. Who dis?"
 date:   2020-03-09
 banner_image: compu.jpeg
 tags: [ Blog Updates]
