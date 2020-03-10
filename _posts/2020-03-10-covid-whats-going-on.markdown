@@ -17,9 +17,13 @@ Although my blog is primarily focused on tech, humor and opinion driven pieces, 
 
 
 
+
+
 ### COVID-19 or Corona Virus?
 
 One of the biggest slightly misleading hiccoughs I've seen online, is referring to this virus as the _"corona virus"_. This can potentially pose issue when speaking with health officials or providing information to a friend for them to look up, as most lower respiratory infections take the form of a corona virus. Just as can be observed in the header image above, these viruses don the moniker of _"corona"_ viruses due to the crown-shaped spires they display. Due to this, *COVID-19* is the official name given to this virus and is what you should use when researching relative information about it, as searching for _"corona virus"_ may bring up information about unrelated viruses.
+
+
 
 
 
@@ -36,6 +40,8 @@ It is suggested you contact a doctor right away and inform them about you sympto
 
 
 
+
+
 ### Spreading & Face Masks
 
 {% include image_caption.html imageurl="/images/posts/mask.jpg" title="Face Mask" caption="a person wearing a face mask" %}
@@ -47,6 +53,8 @@ Traditionally, face masks are adorned by those who _already have a flu-like infe
 >"When you breathe through and around them, it doesn't provide optimal respiratory protection." <cite>-  Dr. Schaffner </cite>
 
 The practice of employing face masks is also quite specific. They are to be swapped out with fresh ones routinely, after significant exposure to places that may harbor those infected.
+
+
 
 
 
@@ -68,17 +76,23 @@ All of these can aid you in reducing your risk of infection and the risk of infe
 
 
 
+
+
 ### Status Updates
 
-{% include image_caption.html imageurl="/images/posts/arcgis.png" title="COVID Map" caption="the live reports map" %}
+{% include image_caption.html imageurl="/images/posts/arcgis.PNG" title="COVID Map" caption="the live reports map" %}
 
 Personally, I find one the best sources for real-time statistics on the spread of the virus to be the <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">(CSSE) at Johns Hopkins University (JHU)</a> map. Although it can be buggy or slow at times, due to the surge in users, it presents the most current statistics on the global spread, as well as a counter for the total number of reported recoveries. It is very informative and presents the information without any political narrative or bias. 
+
+
 
 
 
 ### Should I be Concerned?
 
 In short: *yes*. I don't mean this in a _panicky_ sort of way, but in a more _self-conscious_ sort of way. You should be concerned with informing those you know about how to reduce the spread, protect themselves and raise awareness about the COVID-19 virus. The most valuable asset you can have at your disposal is information. Go perform your own research, ensure to avoid channels that only seek to sew panic and raise their own viewer ratings. Find reliable and informative sources that are verifiably speaking from a place of authority, such as doctors or scientists, for instance.
+
+
 
 
 
