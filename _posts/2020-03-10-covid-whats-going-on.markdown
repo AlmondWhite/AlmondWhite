@@ -1,6 +1,6 @@
 ---
 title:  "COVID-19: What's going on?"
-date:   2020-03-09
+date:   2020-03-10
 banner_image: corona.png
 tags: [ News]
 ---
@@ -38,7 +38,7 @@ It is suggested you contact a doctor right away and inform them about you sympto
 
 ### Spreading & Face Masks
 
-{% include image_caption.html imageurl="images/posts/mask.jpg" title="Face Mask" caption="a person wearing a face mask" %}
+{% include image_caption.html imageurl="/images/posts/mask.jpg" title="Face Mask" caption="a person wearing a face mask" %}
 
 Whereas many people you will see on the news or in images, who live in areas affected by the virus, appear to be combating contagion by wearing surgical masks, it should be noted that these *should not be considered as a valid form of protection from the disease.* Wearing a face mask in crowded public areas can, of course, reduce your chances of contracting the illness via cough or sneeze from someone afflicted with the virus. But they are not the _be all, end all_ to protecting yourself. 
 
@@ -70,7 +70,7 @@ All of these can aid you in reducing your risk of infection and the risk of infe
 
 ### Status Updates
 
-{% include image_caption.html imageurl="images/posts/arcgis.png" title="COVID Map" caption="the live reports map" %}
+{% include image_caption.html imageurl="/images/posts/arcgis.png" title="COVID Map" caption="the live reports map" %}
 
 Personally, I find one the best sources for real-time statistics on the spread of the virus to be the <a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">(CSSE) at Johns Hopkins University (JHU)</a> map. Although it can be buggy or slow at times, due to the surge in users, it presents the most current statistics on the global spread, as well as a counter for the total number of reported recoveries. It is very informative and presents the information without any political narrative or bias. 
 
