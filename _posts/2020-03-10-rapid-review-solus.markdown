@@ -1,5 +1,5 @@
 ---
-title:  "Rapid Review: Solus"
+title:  "Rapid Review: Solus Linux"
 date:   2020-03-10
 banner_image: sail.jpg
 tags: [ Rapid Review, Distros, Tech, Solus]
