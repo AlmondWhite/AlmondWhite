@@ -5,7 +5,7 @@ banner_image: autoplay.jpg
 tags: [ Coding & Programming, HTML]
 ---
 
-I fucking hate when you browse through articles online, be it news sites or journals or cooking sites, a lot of the time they’ll have a video that immediately plays when you load up the page and have it as a fixed element as you scroll. 
+I hate when I browse through articles online, be it news sites or journals or cooking sites, a lot of the time they’ll have a video that immediately plays when you load up the page and have it as a fixed element as you scroll. 
 
 <!--more-->
 
