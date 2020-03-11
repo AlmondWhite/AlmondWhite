@@ -2,7 +2,7 @@
 title:  "2020, Gimme Plenty"
 date:   2020-01-01
 banner_image: sparkle.jpg
-tags: [ General Bullshit]
+tags: [ General Rambling]
 ---
 
 New year, new decade. How you gonna tackle it?
