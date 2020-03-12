@@ -27,6 +27,7 @@ In a report from <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-
 It seems that Amazon is placing a certain amount of faith in the situation as well. Users may be asking themselves: _When were they going to tell us about this?_ Well the truth is, they kind of already did. In the <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio">Alexa Terms of Use</a>, they clearly state:
 
 >"[ You control Alexa with your voice. Alexa streams audio to the cloud when you interact with Alexa. Amazon processes and retains your Alexa Interactions, such as your voice inputs, music playlists, and your Alexa to-do and shopping lists, in the cloud to provide, personalize, and improve our services. ]" <cite>- Alexa Terms of Use</cite>
+
 Apparently they place such care in to how your personal data is handled, they place it in the hands of others at the discretion of NDAs. To what extent is this _"processing"_ monitored or supervised? Who knows? How is a user of the service supposed to discern the level of professionalism, security and responsibility of one of these reviewers and the lab in which they work? Faith, faith, faith…
 
 As for the argument that the device only records when you expressly allow it to, well it would appear that there is a bit of contradiction going on, even in the Alexa Terms of Use. Their <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230">FAQ</a> on Alexa has two contrasting points:
@@ -46,10 +47,9 @@ This renders the previous claim that: _" No audio is stored or sent to the cloud
 
 Back in 2018, a German magazine, <a href="https://www.heise.de/"> Heise Online</a>, first reported on the case in which a German citizen invoked his right, under GDPR, to request a copy of the data Amazon had collected on him. In return, Amazon gifted him with over a thousand voice recordings, collected from an Alexa device. <a href="https://www.theverge.com/2018/12/20/18150531/amazon-alexa-voice-recordings-wrong-user-gdpr-privacy-ai /">The Verge</a>,  expanded on the issue in their article:
 
->" […] One German user, under the alias “Martin Schneider," […] got back from Amazon[…] thousands of Alexa voice recordings, which was strange considering he didn't own an Alexa device.
+>" […] One German user, under the alias 'Martin Schneider,' […] got back from Amazon[…] thousands of Alexa voice recordings, which was strange considering he didn't own an Alexa device.
 
 […] the man brought the files to [Heisen Online], where reporters were able to piece together who the Alexa user was. Among the files were commands to control Spotify, the person's home thermostat, and alarms. There were also recordings that indicated the Alexa user also owned a Fire TV, and that they had a spouse who appeared to live in the home.
-
 
 ‘Using these files, it was fairly easy to identify the person involved and his female companion; weather queries, first names, and even someone's last name enabled us to quickly zero in on his circle of friends,' the report reads. ‘Public data from Facebook and Twitter rounded out the picture.' It turns out that the victim in this case also filed a data request under the new GDPR rules, c't reports, but somehow the two men received each other's reports. " <cite>- The Verge</cite>
 
@@ -64,7 +64,7 @@ Over the past couple of years, Amazon has made a reputation for itself in being 
 
 In the States, no company is obligated under law to disseminate the frequency at which they are pinged by the government for data, but when even Facebook is providing transparency reports on these actions then you _know_ you're acting sketchy. 
 
-These reports are apparently published every six months. <a href="https://www.zdnet.com/article/amazon-the-least-transparent-tech-company/">ZDNet</a>,  covers the issue in more detail in their article, and notably state:
+These reports are apparently published every six months. <a href="https://www.zdnet.com/article/amazon-the-least-transparent-tech-company/">ZDNet</a>, covers the issue in more detail in their article, and notably state:
 
 >"Amazon, which wasn't named as a surveillance partner in the leaked NSA documents, publishes the least amount of data in its reports. By comparison, each report has just three pages and contains only basic information, like how many requests the company received and how many were approved or denied.
 Unlike other companies, Amazon doesn't even say how many customers were affected.
