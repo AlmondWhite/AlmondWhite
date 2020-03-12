@@ -30,7 +30,7 @@ It seems that Amazon is placing a certain amount of faith in the situation as we
 
 Apparently they place such care in to how your personal data is handled, they place it in the hands of others at the discretion of NDAs. To what extent is this _"processing"_ monitored or supervised? Who knows? How is a user of the service supposed to discern the level of professionalism, security and responsibility of one of these reviewers and the lab in which they work? Faith, faith, faith...
 
-{% include image_caption.html imageurl="/images/posts/tou.PNG" title="Alexa Terms of Use" caption="a person wearing a face mask" %}
+{% include image_caption.html imageurl="/images/posts/tou.PNG" title="Alexa Terms of Use" caption="Alexa Terms of Use page" %}
 
 As for the argument that the device only records when you expressly allow it to, well it would appear that there is a bit of contradiction going on, even in the Alexa Terms of Use. Their <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201602230">FAQ</a> on Alexa has two contrasting points:
 
