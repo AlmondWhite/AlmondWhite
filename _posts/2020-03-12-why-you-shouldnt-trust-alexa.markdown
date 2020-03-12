@@ -53,7 +53,7 @@ They continue:
 
 >"[...] the man brought the files to [Heisen Online], where reporters were able to piece together who the Alexa user was.[...]
 Using these files, it was fairly easy to identify the person involved and his female companion; weather queries, first names, and even someone's last name enabled us to quickly zero in on his circle of friends. Public data from Facebook and Twitter rounded out the picture. It turns out that the victim in this case also filed a data request under the new GDPR rules, c't reports, but somehow the two men received each other's reports." <cite>- The Verge</cite>
-
+ 
 As you can see, the sheer amount of data a user regularly provides Alexa with, makes it extremely easy to piece together a profile on that person. In this case, it appears to have been sent by mistake and the recipient was noble enough to raise the alarm and list what he had received as opposed to using the information maliciously. 
 
 However, you can be sure that not everyone will have their heart in the right place when faced with the same circumstances. This, of course, was just one reported incident. Who's to say that this hasn't happened before or since? And who is to say that someone was not using this as a loophole to extract unsuspecting user's data directly from Amazon? Would you trust Amazon to tell you?
