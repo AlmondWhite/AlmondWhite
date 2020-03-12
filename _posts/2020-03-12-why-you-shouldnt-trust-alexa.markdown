@@ -21,7 +21,7 @@ If you still needed convincing, here are some examples of why I feel so strongly
 A big misconception Alexa owners seem to have is that the device only records once you engage with it, by saying  _“Alexa"_, only then will the microphone turn on. For the device to register if the word _"Alexa"_ was uttered, then it needs to have the microphone enabled constantly. Some would argue, _"Well is doesn't upload your voice recordings to be processed unless you say 'Alexa'"_. Are you sure? It would seem that a certain amount of faith has to be placed on the manufacturer not to process *ALL* audible data, and only process the commands given to the device. Where has the extent of this faith gotten people? As you might imagine, not very far. 
 
 In a report from <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio">Bloomberg</a> in 2019, it was uncovered that *thousands* of Amazon employees are routinely listening in on Alexa user's voice recordings, in an attempt to _improve_ the quality of the system. As written in the article:
-
+ 
 >"[The team comprises a mix of contractors and full-time Amazon employees who work in outposts from Boston to Costa Rica, India and Romania, according to the people, who signed nondisclosure agreements barring them from speaking publicly about the program. They work nine hours a day, with each reviewer parsing as many as 1,000 audio clips per shift]" <cite>- Bloomberg</cite>
 
 It seems that Amazon is placing a certain amount of faith in the situation as well. Users may be asking themselves: _When were they going to tell us about this?_ Well the truth is, they kind of already did. In the <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio">Alexa Terms of Use</a>, they clearly state:
@@ -63,7 +63,7 @@ As you can see, the sheer amount of data a user regularly provides Alexa with, m
 However, you can be sure that not everyone will have their heart in the right place when faced with the same circumstances. This, of course, was just one reported incident. Who's to say that this hasn't happened before or since? And who is to say that someone was not using this as a loophole to extract unsuspecting user's data directly from Amazon? Would you trust Amazon to tell you?
 
 I understand that this argument could be made for any internet-based service, in a way, but when a tech giant such as Amazon is, not only pushing these devices to the public as the perfect Christmas gift or must have gadget every year or attempting to bundle it with as many other products online, it's hard to not see an agenda popping up. To think that Amazon promotes this product so much because they earn their profit solely off the extremely low prices Alexa devices are sold at, is a bit ridiculous. Big money has always been your data. 
- 
+
 
 ## Some people know you, better than yourself
 
