@@ -47,9 +47,12 @@ This renders the previous claim that: _" No audio is stored or sent to the cloud
 
 Back in 2018, a German magazine, <a href="https://www.heise.de/"> Heise Online</a>, first reported on the case in which a German citizen invoked his right, under GDPR, to request a copy of the data Amazon had collected on him. In return, Amazon gifted him with over a thousand voice recordings, collected from an Alexa device. <a href="https://www.theverge.com/2018/12/20/18150531/amazon-alexa-voice-recordings-wrong-user-gdpr-privacy-ai /">The Verge</a>,  expanded on the issue in their article:
 
->"[...] One German user, under the alias 'Martin Schneider,' [...] got back from Amazon[...] thousands of Alexa voice recordings, which was strange considering he didn't own an Alexa device.
-[...] the man brought the files to [Heisen Online], where reporters were able to piece together who the Alexa user was.[...]
-'Using these files, it was fairly easy to identify the person involved and his female companion; weather queries, first names, and even someone's last name enabled us to quickly zero in on his circle of friends,' the report reads. 'Public data from Facebook and Twitter rounded out the picture.' It turns out that the victim in this case also filed a data request under the new GDPR rules, c't reports, but somehow the two men received each other's reports." <cite>- The Verge</cite>
+>"[...] One German user, under the alias 'Martin Schneider,' [...] got back from Amazon[...] thousands of Alexa voice recordings, which was strange considering he didn't own an Alexa device." <cite>- The Verge</cite>
+
+They continue:
+
+>"[...] the man brought the files to [Heisen Online], where reporters were able to piece together who the Alexa user was.[...]
+Using these files, it was fairly easy to identify the person involved and his female companion; weather queries, first names, and even someone's last name enabled us to quickly zero in on his circle of friends. Public data from Facebook and Twitter rounded out the picture.' It turns out that the victim in this case also filed a data request under the new GDPR rules, c't reports, but somehow the two men received each other's reports." <cite>- The Verge</cite>
 
 As you can see, the sheer amount of data a user regularly provides Alexa with, makes it extremely easy to piece together a profile on that person. In this case, it appears to have been sent by mistake and the recipient was noble enough to raise the alarm and list what he had received as opposed to using the information maliciously. 
 
