@@ -42,7 +42,7 @@ We see this statement proves invalid through what Amazon cutely refers to as _�
 >"[5. What about "false wakes"? 
 In some cases, your Alexa-enabled device might interpret another word or sound as the wake word (for instance, the name "Alex" or someone saying "Alexa" on the radio or television). When this happens, we call that a "false wake." We have a team of world-class scientists and engineers dedicated to continually improving our wake word detection technology and preventing false wakes from happening]" <cite>- Alexa FAQ</cite>
 
-This renders the previous claim that: _" No audio is stored or sent to the cloud unless the device detects the wake word"_, mute. How frequently do these _"false wakes"_ occur? How can users verify that these _"false wakes"_ don't get sent to the Romanian data processing lab? The truth is, (you guessed it) they just have to have faith. But don't worry, with all these _“world-class scientists"_ working on the issue, I'm sure Bezos will make sure your data is never in the wrong hands. Right? 
+This renders the previous claim that: _" No audio is stored or sent to the cloud unless the device detects the wake word"_, mute. How frequently do these _"false wakes"_ occur? How can users verify that these _"false wakes"_ don't get sent to the Romanian data processing lab? The truth is, (you guessed it) they just have to have faith. But don't worry, with all these _“world-class scientists"_ working on the issue, I'm sure Bezos will make sure your data is never in the wrong hands. Right?
 
 
 ## One lucky person wins over 1700 private voice recordings
