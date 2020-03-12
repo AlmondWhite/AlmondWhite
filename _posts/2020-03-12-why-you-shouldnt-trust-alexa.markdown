@@ -63,7 +63,7 @@ As you can see, the sheer amount of data a user regularly provides Alexa with, m
 However, you can be sure that not everyone will have their heart in the right place when faced with the same circumstances. This, of course, was just one reported incident. Who's to say that this hasn't happened before or since? And who is to say that someone was not using this as a loophole to extract unsuspecting user's data directly from Amazon? Would you trust Amazon to tell you?
 
 I understand that this argument could be made for any internet-based service, in a way, but when a tech giant such as Amazon is, not only pushing these devices to the public as the perfect Christmas gift or must have gadget every year or attempting to bundle it with as many other products online, it's hard to not see an agenda popping up. To think that Amazon promotes this product so much because they earn their profit solely off the extremely low prices Alexa devices are sold at, is a bit ridiculous. Big money has always been your data. 
-
+ 
 
 ## Some people know you, better than yourself
 
