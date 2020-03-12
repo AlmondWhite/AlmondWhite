@@ -21,7 +21,7 @@ If you still needed convincing, here are some examples of why I feel so strongly
 A big misconception Alexa owners seem to have is that the device only records once you engage with it, by saying  _“Alexa"_, only then will the microphone turn on. For the device to register if the word _"Alexa"_ was uttered, then it needs to have the microphone enabled constantly. Some would argue, _"Well is doesn't upload your voice recordings to be processed unless you say 'Alexa'"_. Are you sure? It would seem that a certain amount of faith has to be placed on the manufacturer not to process *ALL* audible data, and only process the commands given to the device. Where has the extent of this faith gotten people? As you might imagine, not very far. 
 
 In a report from <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio">Bloomberg</a> in 2019, it was uncovered that *thousands* of Amazon employees are routinely listening in on Alexa user's voice recordings, in an attempt to _improve_ the quality of the system. As written in the article:
- 
+
 >"[The team comprises a mix of contractors and full-time Amazon employees who work in outposts from Boston to Costa Rica, India and Romania, according to the people, who signed nondisclosure agreements barring them from speaking publicly about the program. They work nine hours a day, with each reviewer parsing as many as 1,000 audio clips per shift]" <cite>- Bloomberg</cite>
 
 It seems that Amazon is placing a certain amount of faith in the situation as well. Users may be asking themselves: _When were they going to tell us about this?_ Well the truth is, they kind of already did. In the <a href="https://www.bloomberg.com/news/articles/2019-04-10/is-anyone-listening-to-you-on-alexa-a-global-team-reviews-audio">Alexa Terms of Use</a>, they clearly state:
@@ -55,7 +55,7 @@ They continue:
 
 >"[...] the man brought the files to [Heisen Online], where reporters were able to piece together who the Alexa user was.[...]
 Using these files, it was fairly easy to identify the person involved and his female companion; weather queries, first names, and even someone's last name enabled us to quickly zero in on his circle of friends. Public data from Facebook and Twitter rounded out the picture. It turns out that the victim in this case also filed a data request under the new GDPR rules, c't reports, but somehow the two men received each other's reports." <cite>- The Verge</cite>
- 
+
 As you can see, the sheer amount of data a user regularly provides Alexa with, makes it extremely easy to piece together a profile on that person. In this case, it appears to have been sent by mistake and the recipient was noble enough to raise the alarm and list what he had received as opposed to using the information maliciously. 
 
 {% include image_caption.html imageurl="/images/posts/mute.jpg" title="Supposed mute" caption="Supposed mute" %}
