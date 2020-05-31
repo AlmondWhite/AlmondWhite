@@ -1,7 +1,7 @@
 ---
 title:  "Strange Times"
 date:   2020-06-01
-banner_image: flrs.jpg
+banner_image: life.jpg
 tags: [ News, General Rambling]
 ---
 
