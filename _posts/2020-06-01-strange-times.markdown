@@ -14,6 +14,7 @@ Now, those of you who have ever had the misfortune of visiting my twitter page, 
 >”Actively honing my skills at circumventing the areas of pointless conflict on this platform. Its actually a nice quiet place once you get the hang of it.” <cite>- @AImondWhite </cite>
 
 As you may imagine, I’m trying to keep up the mantle I’ve set, here as well. I’ve said it before but, there are myriads of other places online that you can go to if you want to find controversial topics and provocative points of view _(you don’t need to look to far)_. 
+
 So why am I bringing this up? Well it’s the talk of the town (and by town I mean western society), that a black American man, George Floyd, met an unjust end at the hands of some police officers. This event appears to be the tipping point for many communities in the states and riots are rampant. Before going any further, I would like to say, that regardless of where anyone stands on the issue, it is a terrible thing that happened to this man. This is a textbook definition of a divisive topic and one that could easily see me break my own rule if I were to venture into it online. It’s not to say that I don’t care or don’t have my own opinions on the matter, but I won’t be sharing them for the sake of not contributing to the noise online.
 
 
@@ -21,6 +22,8 @@ With this having been mentioned, the reason I wanted to touch on the topic, albe
 
 
 I hate writing about things in a way that they can be perceived as a downer, but reality can suck, depending on what it consists of. Is it that the world seems like its going nuts because it is? Or, is it due to the fact that more people are sharing information worldwide today than any other time in history, that crazy things seem to be happening all the time? In the event of COVID-19, its pretty self-evident that a global event at this scale can’t be exaggerated to far beyond the sheer amount of damage it has caused.
+
+
 Anyways, I’m back posting. I’ll have some updates soon, as well as some cool new stuff to talk about so don’t get too depressed. Things can only get better, I hope?... 
 
 More to come.   
