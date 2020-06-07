@@ -34,4 +34,6 @@ Everyone wants to be heard and the internet allows people to be so, and I for on
 
 
 
-Thanks for reading,More to come _(but not like this)_.
+Thanks for reading,
+
+More to come _(but not like this)_.
