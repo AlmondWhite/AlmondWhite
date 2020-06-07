@@ -27,5 +27,11 @@ The internet isn’t a terrible place, it just depends where you go and who you 
 Hang around with a subset of like-minded people for too long and you’ll surely see yourself feeling pressured to slot into an ideology or trend in fear of being segregated from your peers. Please, albeit for an instant, entertain the fact that you no two human beings are alike and it is infinitely better for you to be you, than what anyone else tells you to be. If you find yourself feeling compelled to be crafted into yet another herd member, then I hope you retain the wherewithal to realize that you don’t have to align with anyone on everything. 
 
 
-Due to the fact that most any statement on the internet can be heard in mass numbers, its also easy to convince yourself that the sentiments you’re seeing online are the general consensus of everyone outside your window. It’s healthy to take a step back sometimes and view any situation from as many different angles as you can until you feel satisfied with whatever conclusion you draw. Everyone wants to be heard and the internet allows people to be so, and I for one am thankful for that. This desire isn’t just a product of our time, as I’m positive that had such a platform been given to anyone at any point in history, they would have done the same. To quote a very wise man:
-> “If fish could talk, the ocean would be loud and shit.” <cite>- Mitch Hedberg</cite>Thanks for reading,More to come _(but not like this)_.
+Due to the fact that most any statement on the internet can be heard in mass numbers, its also easy to convince yourself that the sentiments you’re seeing online are the general consensus of everyone outside your window. It’s healthy to take a step back sometimes and view any situation from as many different angles as you can until you feel satisfied with whatever conclusion you draw. 
+
+Everyone wants to be heard and the internet allows people to be so, and I for one am thankful for that. This desire isn’t just a product of our time, as I’m positive that had such a platform been given to anyone at any point in history, they would have done the same. To quote a very wise man:
+> “If fish could talk, the ocean would be loud and shit.” <cite>- Mitch Hedberg</cite>
+
+
+
+Thanks for reading,More to come _(but not like this)_.
